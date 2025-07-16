@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify, render_template
 import pickle
-from model import train_and_save_model, preprocess_url
+from app import train_and_save_model, preprocess_url
 
 app = Flask(__name__)
 
