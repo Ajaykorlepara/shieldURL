@@ -1,0 +1,9 @@
+flask
+gunicorn
+scikit-learn
+pandas
+numpy
+xgboost
+joblib
+pickle-mixin
+uvicorn[standard]
